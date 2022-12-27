@@ -1,0 +1,21 @@
+.heading{
+    border: 2px dashed rgb(209, 157, 61);
+    width:80%;
+    font-size: 23px;
+}
+body{
+    color:rgb(42, 0, 0);
+    background-color: rgb(127, 145, 171);
+}
+.name_of_objects{
+    color:rgb(0, 29, 61)
+}
+#camera,#result{
+    border: 2px dashed whitesmoke;
+    width:350px;
+    height:300px;
+    border-radius: 10px;
+}
+#result_object_name,#result_accuracy_name{
+    color:rgba(173, 10, 10, 0.758)
+}
